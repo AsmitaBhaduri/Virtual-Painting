@@ -1,0 +1,1 @@
+This project implements a virtual painting application using OpenCV. The user can draw on a digital canvas using hand gestures, a mouse, or object tracking. The system detects movement and translates it into strokes of various colors and brush sizes, simulating a real painting experience without physical tools.
